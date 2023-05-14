@@ -5,8 +5,8 @@ cp -r site/* softwarelife.github.io/
 cd softwarelife.github.io
 ls
 
-git config --global user.email "saitejairrinki@gmail.com"
-git config --global user.name "saitejairrinki"
+git config --global user.email "lioneltchami@gmail.com"
+git config --global user.name "apotitech"
 git add .
 git commit -m "$(Build.SourceVersionMessage)"
 git push 
